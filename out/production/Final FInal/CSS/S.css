@@ -1,0 +1,8 @@
+#esneik {
+    -fx-background-color:  #13452b;
+    -fx-text-fill: white;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 50px;
+    -fx-font-family: "Century Gothic";
+    -fx-font-size: 20px
+}
